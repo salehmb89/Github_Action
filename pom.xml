@@ -13,7 +13,7 @@
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <main.class>edu.una.csis.cicd.HelloWorld</main.class>
+        <main.class>edu.una.csis.cicd.Calculator</main.class>
         <java.version>21</java.version>
         <junit.jupiter.version>5.10.0</junit.jupiter.version>
         <maven.compiler.plugin.version>3.11.0</maven.compiler.plugin.version>
